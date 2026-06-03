@@ -52,9 +52,9 @@ headers is instant and exact.
 
 ## Setup guide
 
-A full setup guide (what to adjust before the first call, the 8 dimensions
-explained, why two skills, how to log outcomes) is published as a Notion page
-and sent in the LinkedIn DM after you comment on the launch post.
+Full setup guide (what to adjust before the first call, the 8 dimensions
+explained, why two skills, how to log outcomes):
+**https://www.notion.so/Sales-Call-Coach-Setup-Guide-3747868135668159bbeded6c497cc3d6**
 
 ## License
 
